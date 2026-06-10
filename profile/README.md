@@ -1,6 +1,6 @@
 # LUDO3 — FIUBA
 
-**LUDO** es la plataforma digital de la Facultad de Ingeniería de la UBA. Integra la gestión académica, administrativa e institucional en una sola app móvil.
+**LUDO** es la plataforma digital de la Facultad de Ingeniería de la UBA. Integra la gestión académica, administrativa e institucional en una sola app tanto móvil como web.
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Repo | Descripción | Stack |
 |------|-------------|-------|
-| `ludo3-mobile` | App móvil para alumnos, docentes y administrativos | React Native · Expo · TypeScript |
+| `ludo3-mobile` | App móvil y web para alumnos, docentes y administrativos | React Native · Expo · TypeScript |
 | `ludo3-backend` | API REST y lógica de negocio | Django · DRF · PostgreSQL |
 | `ludo3-mobile-teacher` | Vista docente (legacy) | React Native |
 
